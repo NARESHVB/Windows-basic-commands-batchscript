@@ -25,57 +25,65 @@ Execute the necessary commands/batch file for the desired output.
 Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
-<img width="1271" height="317" alt="image" src="https://github.com/user-attachments/assets/33b7ed28-0d86-4425-8ea4-7ee10ce7f537" />
+<img width="387" height="86" alt="8a" src="https://github.com/user-attachments/assets/2f461f93-7621-40b3-97c2-5260c850836a" />
+
 
 
 Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
-<img width="1206" height="289" alt="image" src="https://github.com/user-attachments/assets/bbeba363-fe9a-404f-ab1d-601b0b185a01" />
+<img width="437" height="133" alt="8b" src="https://github.com/user-attachments/assets/52dab7ec-f296-4e36-b9fe-4900f536d9c5" />
+
 
 
 Create the file Rose.txt
 
 ## COMMAND AND OUTPUT
-<img width="348" height="149" alt="image" src="https://github.com/user-attachments/assets/79269edd-eaab-446a-bd51-0d11e74b7ebf" />
+<img width="537" height="213" alt="8c" src="https://github.com/user-attachments/assets/dadc6184-3460-4f55-8f18-7f8b48e66f62" />
+
 
 
 Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
-<img width="406" height="123" alt="image" src="https://github.com/user-attachments/assets/35a55d7a-0bde-4067-ba1f-2065c83245b9" />
+
+<img width="572" height="227" alt="8d" src="https://github.com/user-attachments/assets/904921e5-aeb5-437f-8ce9-691035322f4e" />
 
 
 Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
-<img width="354" height="105" alt="image" src="https://github.com/user-attachments/assets/ccf12fff-c9ba-45fc-89e2-d2a6b1753f76" />
+<img width="453" height="197" alt="8e" src="https://github.com/user-attachments/assets/aae6a496-89a8-489a-97ee-559bd8187e54" />
 
 
 Remove the file hello1.txt
 List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
-<img width="339" height="118" alt="image" src="https://github.com/user-attachments/assets/504fde4d-aca2-44f3-857b-19f7e645de1c" />
+<img width="460" height="522" alt="8f" src="https://github.com/user-attachments/assets/98c659d2-4f4f-4a98-8e1a-6f32053bf43e" />
+
 
 
 List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
-<img width="598" height="150" alt="image" src="https://github.com/user-attachments/assets/cf59fc09-2b0c-41ab-b858-6cc4d3ca84bb" />
+<img width="468" height="192" alt="8g" src="https://github.com/user-attachments/assets/3bf1a561-e25c-4866-9661-48db028002fc" />
+
 
 
 Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
-<img width="396" height="198" alt="image" src="https://github.com/user-attachments/assets/e6874f26-c8de-4d29-864b-0f3429753970" />
+
+<img width="347" height="130" alt="8h" src="https://github.com/user-attachments/assets/94fa1b12-d38e-4623-b513-9d3cd05b6e63" />
 
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
 ## OUTPUT
-<img width="662" height="442" alt="image" src="https://github.com/user-attachments/assets/ed8140ac-bd45-4c89-9373-76e02f274def" />
+
+<img width="488" height="276" alt="8i" src="https://github.com/user-attachments/assets/2457c66c-d94b-4664-87e2-624c59908064" />
 
 
 
@@ -90,7 +98,8 @@ Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
 
 ## OUTPUT
-<img width="526" height="355" alt="image" src="https://github.com/user-attachments/assets/08ca5d8e-cc61-4b6f-93c6-06b8435ff3d8" />
+
+<img width="400" height="287" alt="8j" src="https://github.com/user-attachments/assets/5f9e9109-de67-43a2-b701-c7f808882160" />
 
 
 
@@ -101,8 +110,9 @@ Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1
 
 
 ## OUTPUT
-<img width="383" height="277" alt="image" src="https://github.com/user-attachments/assets/5356eb38-a2da-43e0-8f94-90f1683a0b1c" />
 
+
+<img width="381" height="198" alt="8k" src="https://github.com/user-attachments/assets/a978369d-3439-45b1-ac51-1d1f36c3d34c" />
 
 
 
@@ -115,7 +125,7 @@ Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
 ## OUTPUT
-<img width="361" height="287" alt="image" src="https://github.com/user-attachments/assets/4e976aef-d566-4015-b21f-d842f795aaa0" />
+
 
 
 Write a batch script that displays a simple menu with three options:
@@ -126,7 +136,7 @@ The script should repeatedly display the menu until the user chooses to exit. Us
 
 
 ## OUTPUT
-<img width="401" height="331" alt="image" src="https://github.com/user-attachments/assets/3fdfc531-dfd7-4b5c-8817-be5f085fd11e" />
+<img width="352" height="370" alt="8l" src="https://github.com/user-attachments/assets/15c1e0f9-093c-4377-a441-bdcef27eea90" />
 
 
 
