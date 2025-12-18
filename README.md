@@ -136,11 +136,6 @@ Exit – Exits the script with a goodbye message
 The script should repeatedly display the menu until the user chooses to exit. Use goto statements to handle menu navigation.
 
 
-## OUTPUT
-<img width="401" height="331" alt="image" src="https://github.com/user-attachments/assets/3fdfc531-dfd7-4b5c-8817-be5f085fd11e" />
-
-
-
 # RESULT:
 The commands/batch files are executed successfully.
 
